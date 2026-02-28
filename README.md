@@ -40,18 +40,21 @@ KEY FEATURES
 
 TECHNOLOGIES USED
 
-Frontend:HTML5
+Frontend:
 
-	 CSS3
+HTML5
+
+CSS3
 	 
-	 JavaScript (Vanilla JS)
+JavaScript (Vanilla JS)
 
 Libraries and Tools:
-		    Swiper.js (Testimonial slider) 
+
+Swiper.js (Testimonial slider) 
 			
-		    ScrollReveal.js(Scroll animations)
+ScrollReveal.js(Scroll animations)
 			
-		    Boxicons (Icon library) - CDN integration
+Boxicons (Icon library) - CDN integration
 
 
 PROJECT STRUCTURE
