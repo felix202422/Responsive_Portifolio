@@ -1,7 +1,9 @@
 RESPONSIVE PERSONAL PORTFOLIO WEBSITE
 
  Author: Felix Haule
+ 
  Role: Computer Engineering Student | Junior Software Developer
+ 
  Year: 2026
 
 
@@ -39,12 +41,16 @@ KEY FEATURES
 TECHNOLOGIES USED
 
 Frontend:HTML5
+
 	 CSS3
+	 
 	 JavaScript (Vanilla JS)
 
 Libraries and Tools:
 		    Swiper.js (Testimonial slider) 
-		    ScrollReveal.js(Scroll animations) 
+			
+		    ScrollReveal.js(Scroll animations)
+			
 		    Boxicons (Icon library) - CDN integration
 
 
