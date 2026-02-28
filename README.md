@@ -1,4 +1,5 @@
 RESPONSIVE PERSONAL PORTFOLIO WEBSITE
+
  Author: Felix Haule
  Role: Computer Engineering Student | Junior Software Developer
  Year: 2026
@@ -84,6 +85,7 @@ FUTURE IMPROVEMENTS
 CONTACT
 
 GitHub: https://github.com/felix202422
+
 Location: Dar es Salaam, Tanzania
 
 
